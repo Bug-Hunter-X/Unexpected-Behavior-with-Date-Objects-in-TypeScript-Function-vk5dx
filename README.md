@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in TypeScript involving Date objects and function parameters. The bug is showcased in `bug.ts`. The corrected version is provided in `bugSolution.ts`. The core issue revolves around how JavaScript's Date object is handled and how TypeScript's type system interacts with this.
